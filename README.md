@@ -1,3 +1,3 @@
-# Crypto-Trading-Bot
+# Quotex-Trading-Bot
 
 Welcome to my Crypto Trading Bot project developed on the Quotex platform! This Python-based trading bot leverages the power of Selenium and undetected_chromedriver to automate trading activities on https://qxbroker.com/en. The bot uses a Martingale Strategy, a popular risk management technique, to optimize trades. The strategy involves doubling the trading amount in the next iteration after a loss, aiming to recover and achieve profit. The bot reads user credentials securely from a file, interacts with the Quotex website, and prompts the user for initial trading amount and desired profit. It continuously executes trades, adapting the trading amount based on the Martingale approach. The code is well-commented for clarity, making it easy for users to understand and customize according to their preferences. Enhance your crypto trading experience with this automated bot!
